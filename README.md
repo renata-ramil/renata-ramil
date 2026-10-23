@@ -1,4 +1,4 @@
-<h3>"If nobody has built this yet, it's probably a stupid idea."</h3>
+<h3>"If nobody has built this yet, maybe it's a stupid idea?"</h3>
 
 That's what I first thought, when at Forescout I came up with an idea for a tool I couldn't find anywhere else: a pipeline that continuously monitors, detects and decodes malware hiding its command-and-control data on blockchains. 
 
